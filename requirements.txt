@@ -1,0 +1,11 @@
+PyMuPDF
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-ollama
+faiss-cpu
+transformers
+torch
+requests
+
